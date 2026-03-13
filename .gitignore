@@ -7,3 +7,5 @@ __pycache__/
 Deep Learning/
 *.prototxt
 *.caffemodel
+Notebooks/data/cifar-10-batches-py
+Notebooks/data/cifar-10-python.tar.gz
