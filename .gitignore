@@ -1,0 +1,9 @@
+.DS_Store
+Computer Vision BACKUP.pptx
+Notebooks/brouillon
+Notebooks/exercices_solutions
+venv/
+__pycache__/
+Deep Learning/
+*.prototxt
+*.caffemodel
